@@ -1,0 +1,6 @@
+[StoryMap project dictating food security & social indicators' impact on birth outcomes in LA County] (https://storymaps.arcgis.com/stories/7f1c4ae089674e6bb3e46d7f716f30a9)
+
+# LA County Birth Outcomes Project
+
+This project was a part of Urban Planning 221, an exhaustive course looking at using geographic data in public policy, urban planning, and public health, using tools like Python and other GIS tools. This effort was a quarter-long collaborative project that looked at the impact of social indicators and food security through different census tracts and areas in Los Angeles county. The project culminated in the use of many different data tools, such as Python, StoryMaps, and numerous data libraries. I created the index that could be pulled for future policy planning of the most impacted regions, created map depicting areas that had zero Low Birth Weight births, and also collaborated on the community narrative map depicting backgrounds and demographic information of the communities with the highest and lowest birth outcomes. Additionally, I headed the organizing and structuring of the Story Map report
+
